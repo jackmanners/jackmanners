@@ -1,21 +1,27 @@
 ### Hi there 👋
 
-<!--
-**jackmanners/jackmanners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a researcher at [FHMRI: Sleep Health](https://www.flinders.edu.au/health-medical-research-institute/clinical-translation/sleep-health), and a big geek on the side.
 
-Here are some ideas to get you started:
+**About Me**
+- 🎓 Research focus is on digital health in sleep. See more [here](https://researchnow.flinders.edu.au/en/persons/jack-manners)
+- 🐊 Developed [SNAPI](https://github.com/SNAPI-dev) to manage consumer device data within research studies
+- 🧮 Loves stats and data visualisation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href='#'>
+  <img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackmanners&layout=compact&langs_count=8&card_width=320&theme=nightowl&hide_border=true" />
+</a>
+<a href='#'>
+  <img height=200 width=320 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jackmanners&theme=nightowl&hide_border=true&card_width=320" />
+</a>
 
+<br/><br/>
 
-![jackmanners's Stats](https://github-readme-stats.vercel.app/api?username=jackmanners&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![jackmanners's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackmanners&theme=vue-dark&hide_border=true)
-![jackmanners's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackmanners&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<a href='https://github.com/jackmanners/AcutePerformance_ShiftWork'>
+  <img height=120 width=320 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackmanners&repo=AcutePerformance_ShiftWork&theme=onedark&hide_border=true&card_width=320" />
+</a>
+<a href='https://github.com/jackmanners/inquisit_combine'>
+  <img height=120 width=320 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackmanners&repo=inquisit_combine&theme=onedark&hide_border=true&card_width=320" />
+</a>
+<a href='https://github.com/jackmanners/GSS-15'>
+  <img height=120 width=320 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackmanners&repo=GSS-15&theme=onedark&hide_border=true&card_width=320" />
+</a>
